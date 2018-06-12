@@ -2,10 +2,10 @@
 layout: blog
 book: true
 title:  "《Head First 设计模式》之策略模式"
-background: purpose
+background: purple
 background-image: http://pa8enmo2o.bkt.clouddn.com/head_first_design_patterns.jpg
-date:   2017-06-13 06:30:00
-category: 计算机书籍
+date:   2018-06-13 06:30:00
+category: 书籍
 tags:
 - Head First
 - 设计模式
